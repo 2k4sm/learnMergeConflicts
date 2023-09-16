@@ -1,0 +1,2 @@
+# learnMergeConflicts
+lmc
